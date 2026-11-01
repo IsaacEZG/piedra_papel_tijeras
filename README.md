@@ -21,6 +21,14 @@ la victoria definitiva. El juego termina hasta que exista un ganador.
 - Validacion basica de entradas.
 - Marcador final y anuncio del ganador.
 
+## Capturas del juego
+
+### Menu de opciones
+![Menu de opciones](images/opciones.png)
+### Marcador final
+![Marcador final](images/juego1.png)
+### Mensaje final
+![Mensaje final](images/juego2.png)
 ## Tecnologias
 - Java.
 - Java Swing.
