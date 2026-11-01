@@ -8,7 +8,7 @@ mi logica de programacion, y el uso de las estructuras de control.
 En el juego, el usuario competira contra la maquina para ganar un determinado
 numero de rondas
 
-Sera el usuario quien ingresara cuantas rondas habra que ganar para ocnseguir
+Sera el usuario quien ingresara cuantas rondas habra que ganar para conseguir
 la victoria definitiva. El juego termina hasta que exista un ganador.
 
 ## Caracteristicas
